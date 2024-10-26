@@ -1,5 +1,5 @@
 # BaseDedatos_Rutas
-
+```sql
 CREATE DATABASE Rutass;
 
 USE Rutass;
